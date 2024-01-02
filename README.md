@@ -9,7 +9,7 @@
 
 </div>
 
-<h4 align="center">🚧 Projeto em construção... 🚧</h4>
+<!-- <h4 align="center">🚧 Projeto em construção... 🚧</h4> -->
 
 <br>
 
@@ -38,10 +38,8 @@
 ## 💻 Tecnologias utilizadas
 
 * [Git](https://git-scm.com/)
-* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/)
-* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
-* [JSon](https://www.json.org/json-pt.html)
+* [JSON](https://www.json.org/json-pt.html)
 
 <br>
 
@@ -60,20 +58,16 @@ Além disto, é bom ter um editor na sua máquina para trabalhar com o código, 
 
 <div id="table" align="center">
 
-| HTML <img src="https://abre.ai/hMC8" alt="HTML" width="45px" align="center"> | CSS <img src="https://abre.ai/hMC0" alt="CSS" width="40px" align="center"> | JavaScript <img src="https://abre.ai/hMC5" alt="JavaScript" width="40px" align="center"> |
-| :----: | :---: | :----------: |
-| []() | []() | []() | 
-| []() | []() | []() | 
-| []() | []() | []() | 
-| []() | []() | []() | 
-| []() | | []() | 
-| []() | | []() | 
-| []() | |[]() | []() |
-| | | []() |
-| | | []() |
-| | | []() |
-| | | []() |
-| | | []() |
+| Aulas | Desafios |
+| :----: | :---: |
+| [Variáveis](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/Variáveis) | [Calculadora de Partidas Rankeadas](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/Desafios/Calculadora%20de%20Partidas%20Rankeadas)  
+| [Operadores](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/Operadores) | [Classes de um jogo](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/Desafios/Classes%20de%20um%20jogo)
+| [Estruturas de controle](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/Estruturas%20de%20controle) | [Classificador de Nível de Herói](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/Desafios/Classificador%20de%20Nível%20de%20Herói)
+| [Funções](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/Fun%C3%A7%C3%B5es) | []()
+| [Vetores e matrizes](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/Vetores%20e%20matrizes) | []() | 
+| [Classes e objetos](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/Classes%20e%20objetos) | []() | 
+| [JSON](https://github.com/MarinaGV93/Potencia-Tech-iFood/tree/main/JSON) | []() |
+| [Classe Pokémon](https://github.com/MarinaGV93/Potencia-Tech-iFood/blob/main/classPokemon.js) |
 
 </div>
 </div>
